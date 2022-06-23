@@ -1,0 +1,80 @@
+/* .resize img {
+    align-content: center;
+} */
+
+/* .allbgd {
+    background-color:linear-radient;
+} */
+
+.allbgd {
+   background-image: url(../rty.jpeg);
+   height: 500px;
+  
+   
+}
+
+.resize {
+  margin-left: 150px;
+  margin-top: 40px;
+  
+}
+
+img {
+     width: 60px;
+     margin-left: 60px;
+     margin-bottom: 40px;
+
+}
+
+.iconcar {
+    margin-left: 100px;
+}
+
+.angl {
+    margin-left: 100px;
+}
+
+.callen {
+    margin-left: 100px;
+}
+
+
+.Howitworks {
+    margin-left: 480px;
+    margin-top: 50px;
+    color: rgb(22, 21, 85);
+
+}
+
+h2{
+    font-size: 20px;
+}
+
+.caricon {
+    margin-right: 50px;
+
+}
+
+.angleicon {
+
+}
+
+.calender {
+    margin-left: 40px
+
+}
+.move {
+    margin-left: 40px
+}
+
+.getmove {
+    margin-left: 45px
+}
+
+
+.round {
+    
+    width: 25px;
+    
+    
+}
